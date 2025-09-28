@@ -50,3 +50,21 @@ http://localhost:8501
 
 ![Food Comparator Demo](Screenshot1.png)
 ![Food Comparator Demo2](Screenshot2.png)
+
+
+## 📌 Future Improvements
+
+✅ Connect to real Swiggy & Zomato APIs (instead of random prices).
+
+✅ Add filtering (Veg/Non-Veg, Price range).
+
+✅ Deploy on Streamlit Cloud or Render for live access.
+
+## 🤝 Contributing
+
+Feel free to fork, improve, and make pull requests 🙌
+
+##🧑‍💻 Author
+
+Developed by Kavya Dutta and Teammates 
+📧 duttakavya18@gmail.com

@@ -64,7 +64,7 @@ http://localhost:8501
 
 Feel free to fork, improve, and make pull requests 🙌
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
-Developed by Kavya Dutta and Teammates 
+Developed by Dutta Kavya and Teammates 
 📧 duttakavya18@gmail.com

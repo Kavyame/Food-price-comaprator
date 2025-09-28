@@ -48,4 +48,5 @@ http://localhost:8501
 
 ## 📸 Demo Preview
 
-![Food Comparator Demo](Screenshot1.png)(Screenshot2.png)
+![Food Comparator Demo](Screenshot1.png)
+![Food Comparator Demo2](Screenshot2.png)
